@@ -11,8 +11,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.195",
     "parcel": "^2.8.3",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
